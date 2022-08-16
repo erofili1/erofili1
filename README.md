@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Erofili, I'm from Greece, living in the UK.
-- 👀 I’m interested in entering the tech industry so I started teaching myself how to code.
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate on simple projects in order to put my -still limited- skills to practice.
-- 📫 Reach me by email: hello@erofilipateraki.gr
+- 👀 I’m passionate about entering the tech industry.
+- ⌨️ I've been learning front end development and I'm currently expanding to back end languages. 
+- 📫 Reach me by email: erixaberi@gmail.com
 
 <!---
 erofili1/erofili1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
