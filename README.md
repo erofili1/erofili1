@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erofili, I'm from Greece, living in the UK.
-- 👀 I’m passionate about entering the tech industry.
-- ⌨️ I've been focusing on front end development and I'm now expanding to back end languages. 
-- ✌️ I'm currently learning React and Python.
+- 👀 I’m passionate about entering the tech industry and becoming a programmer.
+- ⌨️ I'm focusing on front end development and Computer Science Fundamentals. 
+- ✌️ I'm currently learning JavaScript and React.
 - 📫 Reach me by email: erixaberi@gmail.com
 
 <!---
