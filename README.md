@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erofili, I'm from Greece, living in the UK.
 - 👀 I’m passionate about entering the tech industry and becoming a programmer.
-- ⌨️ I'm focusing on front end development and Computer Science Fundamentals. 
+- ⌨️ I'm focusing on Front End Development and Computer Science Fundamentals. 
 - ✌️ I'm currently learning JavaScript and React.
 - 📫 Reach me by email: erixaberi@gmail.com
 
